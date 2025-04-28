@@ -17,9 +17,9 @@
         "text_X6eCb3": {
           "type": "text",
           "settings": {
-            "text": "<p>Discover fresh finds for spring -&gt;</p>",
+            "text": "<p><a href=\"/collections/sale\" title=\"Sale\">Discover fresh finds for spring -&gt;</a></p>",
             "target_url_enabled": false,
-            "target_url": "shopify://collections/new",
+            "target_url": "",
             "target_referrer_enabled": false,
             "target_referrer": "",
             "target_device_enabled": false,
