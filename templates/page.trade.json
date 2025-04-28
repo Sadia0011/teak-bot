@@ -11,10 +11,300 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "settings": {}
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "subheading_size": 3,
+        "show_title": true,
+        "heading_size": 8,
+        "show_content": true,
+        "text_size": 4,
+        "align_text": "text-left",
+        "width": "wrapper",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "section_double_fhrPnP": {
+      "type": "section-double",
+      "blocks": {
+        "subheading_VbRCKY": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Teak New York",
+            "text_size": 3,
+            "padding_bottom": 16
+          }
+        },
+        "heading_eAW9CW": {
+          "type": "heading",
+          "settings": {
+            "title": "Join our Trade Program",
+            "text_size": 8,
+            "padding_bottom": 16
+          }
+        },
+        "text_dajxLA": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Join our exclusive Trade Program and enjoy personalized support, special trade offers, and early access to new collections. Tailored for interior designers, architects, and industry professionals, our program is designed to make sourcing high-quality, design-forward pieces simple and inspiring. Partner with Teak New York and bring timeless modern design to your projects with ease.</p>",
+            "text_size": 4,
+            "text_style": "font-body",
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "subheading_VbRCKY",
+        "heading_eAW9CW",
+        "text_dajxLA"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "layout": "is-reversed",
+        "height": "screen-height-three-quarters",
+        "mobile_height": "screen-height-one-half--mobile",
+        "width": "wrapper--full",
+        "image_1": "shopify://shop_images/Teak_Hem_HaiLoungeChair_LifestyleforWeb9_2e67c195-e9bf-41ea-a54b-cb684ccb7930.webp",
+        "image_width": "one-half",
+        "text_alignment": "text-left",
+        "reverse_blocks": false,
+        "bg_color": "#ece6e6",
+        "color": "",
+        "show_placeholder": true,
+        "padding_top": 0,
+        "padding_bottom": 50
+      }
+    },
+    "section_columns_4iX6dd": {
+      "type": "section-columns",
+      "blocks": {
+        "image_CYWjGm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Teak_Montana_Mini_TVBench_Nordic_Clay_H.webp",
+            "image_aspect_ratio": 1,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "Enjoy 20% Off* Your Trade Order",
+            "heading_size": 4,
+            "text": "<h3></h3><p>As a valued trade partner, you’re entitled to a 20% discount across our full assortment. This ongoing benefit is part of our commitment to supporting your business with thoughtfully designed, high-quality pieces.</p><p>*Excludes all Omhu and Teddy products. Offer valid for trade customers only.</p>",
+            "text_size": 3,
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        },
+        "image_HjJkDA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Your_Teddy_Order_is_en_route_2.webp",
+            "image_aspect_ratio": 1,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "10% Off on OMHU / TEDDY Products",
+            "heading_size": 4,
+            "text": "<h3></h3><p>Enjoy an exclusive 10% trade discount on our Omhu and Teddy collections. Crafted with care and attention to detail, these pieces bring a refined charm to any offering—now with added value for our trade partners.</p>",
+            "text_size": 3,
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        },
+        "image_W6KK4b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/new-store-hp_997f460e-2314-411e-805b-0ac6a927634d.webp",
+            "image_aspect_ratio": 1,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "Priority Expert Service – Dedicated Support, First in Line",
+            "heading_size": 4,
+            "text": "<h3></h3><p>Our Priority Expert Service offers fast-tracked, personalized assistance from our experienced team. Whether you need product recommendations, order support, or tailored guidance, enjoy priority access and expert care every step of the way.</p>",
+            "text_size": 3,
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        },
+        "image_Cem4c6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/TeakStringFurnitureStringLivingroom10.webp",
+            "image_aspect_ratio": 1,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "Extended Return Policy",
+            "heading_size": 4,
+            "text": "<h3></h3><p>As a valued trade partner, enjoy our extended return policy, giving you added flexibility to ensure your order meets your expectations. Shop with confidence knowing you have more time to make the right choice for your business.</p>",
+            "text_size": 3,
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        },
+        "image_XJNf49": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Teak_Montana_Mini_DiningRoom_NewWhite_Camomile_H.webp",
+            "image_aspect_ratio": 1,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "Free Shipping Across the Continental US*",
+            "heading_size": 4,
+            "text": "<h3></h3><p>As a trade partner, you enjoy the benefit of free shipping on all orders within the US. We’re committed to supporting your business with seamless, cost-effective service, ensuring your products arrive on time and without extra fees.</p><p>*Omhu and Teddy products are excluded from this free shipping offer</p>",
+            "text_size": 3,
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "image_CYWjGm",
+        "image_HjJkDA",
+        "image_W6KK4b",
+        "image_Cem4c6",
+        "image_XJNf49"
+      ],
+      "name": "Text columns with images",
+      "settings": {
+        "title": "",
+        "heading_size": 5,
+        "layout": "grid",
+        "grid": 3,
+        "align_heading": "text-left",
+        "align_text": "text-left",
+        "align_columns": "flex-align-top",
+        "width": "wrapper--full-padded",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "layout_mobile": "slider"
+      }
+    },
+    "section_rich_text_XhnRDi": {
+      "type": "section-rich-text",
+      "blocks": {
+        "heading_VgLgzD": {
+          "type": "heading",
+          "settings": {
+            "title": "Teak New York Trade Program",
+            "text_size": 8,
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "heading_VgLgzD"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "width": "wrapper--full-padded",
+        "align_text": "text-left",
+        "overlay_opacity": 0,
+        "overlay_color": "#000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "contact_form_VV3TYP": {
+      "type": "contact-form",
+      "blocks": {
+        "text_pKaYYC": {
+          "type": "text",
+          "settings": {
+            "title": "Full Name",
+            "required": false
+          }
+        },
+        "email_NDbiV8": {
+          "type": "email",
+          "settings": {
+            "title": "Email",
+            "required": true
+          }
+        },
+        "body_4marpB": {
+          "type": "body",
+          "settings": {
+            "title": "Message",
+            "required": true
+          }
+        },
+        "form_heading_K3Miny": {
+          "type": "formHeading",
+          "settings": {
+            "title": "Optional:"
+          }
+        },
+        "checkbox_BefeeW": {
+          "type": "checkbox",
+          "settings": {
+            "title": "This is urgent",
+            "required": false
+          }
+        },
+        "select_AKLjM8": {
+          "type": "select",
+          "settings": {
+            "title": "Select an option",
+            "required": false,
+            "label-one": "- Pick an option -",
+            "label-two": "Option one",
+            "label-three": "Option two",
+            "label-four": "Option three",
+            "label-five": "Option four",
+            "label-six": "Option five"
+          }
+        }
+      },
+      "block_order": [
+        "text_pKaYYC",
+        "email_NDbiV8",
+        "body_4marpB",
+        "form_heading_K3Miny",
+        "checkbox_BefeeW",
+        "select_AKLjM8"
+      ],
+      "name": "Contact form",
+      "settings": {
+        "title": "Trade Application",
+        "terms": true,
+        "width": "wrapper--narrow",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "section_double_fhrPnP",
+    "section_columns_4iX6dd",
+    "section_rich_text_XhnRDi",
+    "contact_form_VV3TYP"
   ]
 }
