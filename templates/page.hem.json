@@ -244,7 +244,7 @@
         "color": "",
         "show_placeholder": true,
         "padding_top": 0,
-        "padding_bottom": 0
+        "padding_bottom": 50
       }
     }
   },
