@@ -19,7 +19,7 @@
           "settings": {
             "text": "<p>Discover fresh finds for spring -&gt;</p>",
             "target_url_enabled": false,
-            "target_url": "",
+            "target_url": "shopify://collections/new",
             "target_referrer_enabled": false,
             "target_referrer": "",
             "target_device_enabled": false,
