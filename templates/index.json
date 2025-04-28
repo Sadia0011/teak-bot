@@ -243,48 +243,6 @@
         "padding_bottom": 0
       }
     },
-    "section_hero_mGAhnA": {
-      "type": "section-hero",
-      "blocks": {
-        "heading_VeCyTg": {
-          "type": "heading",
-          "settings": {
-            "title": "TEAK New York Showroom",
-            "heading_size": 7
-          }
-        },
-        "text_6rFPWJ": {
-          "type": "text",
-          "settings": {
-            "description": "Visit us in person at 34 Norman Avenue in Greenpoint, Brooklyn",
-            "text_size": 5,
-            "text_style": "font-body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_VeCyTg",
-        "text_6rFPWJ"
-      ],
-      "settings": {
-        "height": "four-fifty-height-hero",
-        "width": "wrapper--full",
-        "image_1": "shopify://shop_images/Teak_showrrom.webp",
-        "image_2": "shopify://shop_images/Fabu_house_banner.webp",
-        "link": "",
-        "mobile_height": "screen-height-three-quarters--mobile",
-        "flex_align_desktop": "align--bottom-left-desktop",
-        "flex_align_mobile": "align--middle-center-mobile",
-        "overlay_opacity": 10,
-        "overlay_color": "#000000",
-        "show_overlay_text": false,
-        "bg_color": "",
-        "color": "#ffffff",
-        "show_placeholder": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "section_collection_zGjLh7": {
       "type": "section-collection",
       "settings": {
@@ -492,7 +450,6 @@
     "section_collection_LitpDp",
     "section_text_row_mfcKfP",
     "customized_image_banner_BMBeCP",
-    "section_hero_mGAhnA",
     "section_collection_zGjLh7",
     "magazine_style_collection_grid_jRLKLE",
     "section_hero_8VhgHL",
