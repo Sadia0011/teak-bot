@@ -145,12 +145,72 @@
         "padding_top": 100,
         "padding_bottom": 100
       }
+    },
+    "section_double_AywgjA": {
+      "type": "section-double",
+      "blocks": {
+        "text_cFePyi": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>Hem stands at the intersection of progressive thinking and exceptional craftsmanship, bringing unique, high-quality furniture to those who demand more from their designs. With collaborations with vanguard designers and renowned European manufacturers.</h4>",
+            "text_size": 4,
+            "text_style": "font-body",
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "text_cFePyi"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "layout": "is-reversed",
+        "height": "screen-height-three-quarters",
+        "mobile_height": "screen-height-one-half--mobile",
+        "width": "wrapper--full",
+        "image_1": "shopify://shop_images/Sabine_Marcelis.webp",
+        "image_width": "one-half",
+        "text_alignment": "text-left",
+        "reverse_blocks": false,
+        "bg_color": "#290ee4",
+        "color": "#ffffff",
+        "show_placeholder": true,
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "section_collection_BCcpGw": {
+      "type": "section-collection",
+      "name": "Featured collection",
+      "settings": {
+        "heading": "More HEM items",
+        "description": "",
+        "layout": "inline",
+        "link_text": "Discover more",
+        "link_url": "shopify://collections/hem",
+        "button_type": "btn--primary",
+        "button_size": "btn--large",
+        "button_style": "btn--outline",
+        "show_arrow": false,
+        "featured_collection": "hem",
+        "layout_desktop": "grid",
+        "grid": 4,
+        "rows": 2,
+        "width": "wrapper",
+        "layout_mobile": "slider",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
     }
   },
   "order": [
     "main",
     "section_rich_text_TKGX6r",
     "section_hero_RdCFeP",
-    "section_rich_text_HHNJh4"
+    "section_rich_text_HHNJh4",
+    "section_double_AywgjA",
+    "section_collection_BCcpGw"
   ]
 }
