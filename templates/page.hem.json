@@ -203,6 +203,49 @@
         "padding_top": 50,
         "padding_bottom": 50
       }
+    },
+    "section_double_98ULXL": {
+      "type": "section-double",
+      "blocks": {
+        "heading_aQHdR9": {
+          "type": "heading",
+          "settings": {
+            "title": "Hem’s thoughtfully curated collection is produced in select European factories, ensuring that each piece exceeds environmental standards and industry certifications.",
+            "text_size": 5,
+            "padding_bottom": 16
+          }
+        },
+        "text_gyQ6hL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The brand’s commitment to responsible transparency means every detail, from the materials used to the pricing structure, is shared openly—whether you’re a professional designer or a private consumer.</p><p>With a stunning portfolio that’s over 98% produced in the EU, Hem champions craftsmanship, longevity, and an unwavering dedication to minimizing its CO2 footprint.</p>",
+            "text_size": 2,
+            "text_style": "font-body",
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "heading_aQHdR9",
+        "text_gyQ6hL"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "layout": "",
+        "height": "screen-height-three-quarters",
+        "mobile_height": "screen-height-one-half--mobile",
+        "width": "wrapper--full",
+        "image_1": "shopify://shop_images/Philippe_Malouin.webp",
+        "image_2": "shopify://shop_images/Screenshot_2025-03-17_at_8.57.20_PM_1688934d-fccf-4017-8407-8cb1b914c942.webp",
+        "image_width": "one-half",
+        "text_alignment": "text-left",
+        "reverse_blocks": false,
+        "bg_color": "",
+        "color": "",
+        "show_placeholder": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
@@ -211,6 +254,7 @@
     "section_hero_RdCFeP",
     "section_rich_text_HHNJh4",
     "section_double_AywgjA",
-    "section_collection_BCcpGw"
+    "section_collection_BCcpGw",
+    "section_double_98ULXL"
   ]
 }
