@@ -64,7 +64,14 @@
     "checkout_button_color": "#c5aa76",
     "checkout_error_color": "#c85c42",
     "sale_background_color": "#be563f",
-    "content_for_index": []
+    "content_for_index": [],
+    "blocks": {
+      "10969126820523750069": {
+        "type": "shopify://apps/elx-chatbot/blocks/elx_chatbot_script/9c8b8a5a-afbd-41ba-ac8a-6111fbd35423",
+        "disabled": false,
+        "settings": {}
+      }
+    }
   },
   "presets": {
     "Clean": {
